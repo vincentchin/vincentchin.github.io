@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+date: 2015-07-15
+img: elohell.png
+alt: Elohell
+link: https://splurty-vincent-chin.herokuapp.com/
+project-date: July 2015
+personal: Vincent Chin
+category: Web Development
+description: This is a simple web app that randomly displays a reason why League of Legends players are still in Bronze league. It's a pretty important project to me as it was my first ever web app and a milestone to becoming a developer. Also you gotta admit some of the reasons are kind of funny. It was built using Ruby on Rails/Heroku.
+
+---

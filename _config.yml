@@ -1,0 +1,54 @@
+# Site settings
+title: Vincent Chin
+email: vincent.ch91@gmail.com
+url: https://vincent.github.io
+description: "I'm a Front End Developer with 2 years of experience building websites and web applications."
+role: "Front End Developer"
+favicon: /img/favicon.ico
+meta_author: Chin Vincent
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+# disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 1D84B5
+  primary-rgb: "83,162,190"
+  secondary: 176087
+  secondary-dark: 0A2239
+
+# Footer settings
+footer:
+  copyright: Vincent Chin
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/vincentchin2
+  - title: github
+    url: http://github.com/vincentchin
+
+# Postal address (add as many lines as necessary)
+# address:
+
+# Credits content
+credits: '<i class="fa fa-heart-o"></i><a class="text-link" href="https://startbootstrap.com"> Start Bootstrap</a>'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

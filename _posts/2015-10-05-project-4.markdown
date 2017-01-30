@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+date: 2015-10-05
+img: whereheartslie.png
+alt: Where Hearts Lie Movie
+link: http://whereheartsliemovie.com
+project-date: October 2015
+client: Kingsmen Film
+category: Web Development
+description: I worked with a web designer to build out a simple website for an indie movie that was to be promoted at various film festivals. This was my first freelance project after graduating theFirehoseProject to learn web development. This was done using Jekyll/Github Pages/HTML5/SASS.
+
+---

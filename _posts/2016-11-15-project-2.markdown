@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2016-11-15
+img: ampermusic.png
+alt: Amper Music
+link: https://ampermusic.com
+project-date: November 2016
+client: Amper Music Inc.
+category: Web Development
+description: I revamped the Amper Music website from PSD mockups that was an elegant and modern redesign. This was done using HTML5/Javascript/jQuery/SASS/Flask.
+
+---

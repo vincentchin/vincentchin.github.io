@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2016-04-15
+img: composerapp.png
+alt: Composer App
+link: https://ampermusic.com
+project-date: April 2016
+client: Amper Music Inc.
+category: Web Development
+description: The composer app is an interface that allows video creators to algorithmically generate background music at the user's disposal given a set of options(music style, tempo, instrumentation). I helped build out the user interface and features for Amper Music's web application. This is probably the project I'm most proud of as it was the first real production application that took my blood, sweat and tears to make happen while getting to work with some awesome developers. This was done using ReactJS/Reflux/SASS/ES6.
+
+---

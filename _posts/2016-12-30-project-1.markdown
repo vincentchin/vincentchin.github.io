@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2016-12-30
+img: airport-distance.png
+alt: Airport Distance
+project-date: December 2016
+link: https://github.com/vincentchin/airport-distance
+personal: Vincent Chin
+category: Web Development
+description: I originally made this as a coding challenge but thought I'd display it since it ended up being nicer than I expected. I used ReactJS/GoogleMapsAPI/MaterialUI.
+
+---

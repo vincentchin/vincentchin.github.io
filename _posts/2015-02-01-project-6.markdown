@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+date: 2015-02-01
+img: straightace.png
+alt: StraightAce
+link: https://drive.google.com/open?id=0B920NK4K7OjDc2NoakhfMnlkdjg
+project-date: February 2015
+client: Benesse America Inc.
+category: Web Development
+description: My first ever website build when I was originally doing digital marketing and ended up taking on this project. I taught myself HTML/CSS and basic Javascript to create this as well as learn to work with PSD mockups and a designer.
+
+---
